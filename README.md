@@ -1,5 +1,5 @@
-# Flutter Template
+# Zylu Flutter
 
-A ready to use MVVM based flutter template.
+
 
 
